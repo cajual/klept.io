@@ -12,7 +12,7 @@
         <b class="has-text-grey">
           Every
         </b>
-        component is responsive
+        component is responsive!
       </card>
 
       <card title="Modern" icon="alert-decagram">
