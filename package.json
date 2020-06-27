@@ -1,6 +1,9 @@
 {
-  "name": "klepto.io",
+  "name": "klept.io",
   "version": "1.0.0",
+  "author": "Ryan Gibbons <cajstyle@gmail.com> (https://cajstyle.com)",
+  "license": "MIT",
+  "repository": "github:cajual/klept.io",
   "private": true,
   "scripts": {
     "dev": "nuxt",
